@@ -1,0 +1,4 @@
+icon: https://apps.okteto.com/movies/icon.png
+deploy:
+  - bash zip.sh
+  - bash ./install.sh
